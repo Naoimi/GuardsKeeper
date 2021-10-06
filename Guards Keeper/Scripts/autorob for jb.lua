@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Splooshhy/PantherHub/main/Auto%20Rob.lua'))()

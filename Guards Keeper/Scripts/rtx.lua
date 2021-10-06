@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fadify/RO-TX/main/Main.lua", true))()
